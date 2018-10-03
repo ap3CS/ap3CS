@@ -1,0 +1,98 @@
+body{
+    font-family: 'Catamaran', sans-serif;
+    background-color: #d9d9d9;
+    background-image: url(Image9.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}    
+
+#rescontent{
+ text-align: left;
+ padding: 0px 24px 0px 24px;
+}
+
+#resdiv{
+    margin-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 50%;
+    background-color: rgba(217, 217, 217, .5);
+}
+
+#portdiv{
+    margin-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 50%;
+    background-color: rgba(217, 217, 217, .5);
+}
+
+#aboutdiv{
+    margin-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 50%;
+    background-color: rgba(217, 217, 217, .5);
+}
+
+#aboutdiv ul{
+    margin: auto;
+    width: 25%;
+    text-align: left;
+}
+
+#aboutdiv ol{
+    margin: auto;
+    width: 25%;
+    text-align: left;
+}
+
+#abouttab{
+    margin: auto;    
+}
+
+h1, h3{
+    font-family: 'Indie Flower', cursive;
+    text-decoration: underline;
+}
+
+.nav {
+    list-style-type: none;
+    margin-top: 0;
+    margin-left: -8px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #d9d9d9;
+    width: 100%;
+    top: 0;
+    position: fixed;
+}
+
+.nav li a{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    float: right;
+    padding: 10px 10px;
+    font-size: 16px;
+    color: black;
+     
+}
+
+.nav li a:hover{
+    background-color: #f5f5f5;
+    text-shadow: 2px 2px 5px #444444;   
+}
+
+img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+}
